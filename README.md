@@ -53,6 +53,7 @@ Os dados foram divididos em:
 Com estratificação para manter proporção de evasão.
 ________________________________________
 **6-	Modelos Utilizados**
+
 📈 Regressão Logística
 Escolhida por:
 *	interpretabilidade
